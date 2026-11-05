@@ -1,0 +1,29 @@
+data:
+  cleaned_path: data/processed/H2_cleaned.csv
+random_seed: 382
+test_size: 0.2
+outlier:
+  method: cap
+  quantile: 0.999
+  upper_bound: null
+preprocessing:
+  rare_category_threshold: 0.01
+tuning:
+  cv_folds: 5
+  n_iter: 2
+  scoring: neg_root_mean_squared_error
+models:
+  random_forest:
+    n_estimators: 150
+    max_depth: null
+    min_samples_leaf: 1
+  xgb:
+    n_estimators: 250
+    max_depth: 6
+    learning_rate: 0.05
+    subsample: 0.9
+    colsample_bytree: 0.9
+outputs:
+  regression_dir: outputs/regression
+artifacts:
+  regression_dir: artifacts

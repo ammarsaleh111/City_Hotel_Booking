@@ -1,0 +1,3880 @@
+{
+  "ArrivalDateMonth": [
+    {
+      "value": "August",
+      "count": 8983,
+      "percentage": 11.323585,
+      "is_missing": false
+    },
+    {
+      "value": "May",
+      "count": 8232,
+      "percentage": 10.376907,
+      "is_missing": false
+    },
+    {
+      "value": "July",
+      "count": 8088,
+      "percentage": 10.195386,
+      "is_missing": false
+    },
+    {
+      "value": "June",
+      "count": 7894,
+      "percentage": 9.950838,
+      "is_missing": false
+    },
+    {
+      "value": "October",
+      "count": 7605,
+      "percentage": 9.586537,
+      "is_missing": false
+    },
+    {
+      "value": "April",
+      "count": 7480,
+      "percentage": 9.428968,
+      "is_missing": false
+    },
+    {
+      "value": "September",
+      "count": 7400,
+      "percentage": 9.328123,
+      "is_missing": false
+    },
+    {
+      "value": "March",
+      "count": 6458,
+      "percentage": 8.140678,
+      "is_missing": false
+    },
+    {
+      "value": "February",
+      "count": 4965,
+      "percentage": 6.258666,
+      "is_missing": false
+    },
+    {
+      "value": "November",
+      "count": 4357,
+      "percentage": 5.492248,
+      "is_missing": false
+    },
+    {
+      "value": "December",
+      "count": 4132,
+      "percentage": 5.208622,
+      "is_missing": false
+    },
+    {
+      "value": "January",
+      "count": 3736,
+      "percentage": 4.709442,
+      "is_missing": false
+    }
+  ],
+  "Meal": [
+    {
+      "value": "BB",
+      "count": 62305,
+      "percentage": 78.539014,
+      "is_missing": false
+    },
+    {
+      "value": "SC",
+      "count": 10564,
+      "percentage": 13.316526,
+      "is_missing": false
+    },
+    {
+      "value": "HB",
+      "count": 6417,
+      "percentage": 8.088995,
+      "is_missing": false
+    },
+    {
+      "value": "FB",
+      "count": 44,
+      "percentage": 0.055465,
+      "is_missing": false
+    }
+  ],
+  "Country": [
+    {
+      "value": "PRT",
+      "count": 30960,
+      "percentage": 39.02685,
+      "is_missing": false
+    },
+    {
+      "value": "FRA",
+      "count": 8804,
+      "percentage": 11.097945,
+      "is_missing": false
+    },
+    {
+      "value": "DEU",
+      "count": 6084,
+      "percentage": 7.66923,
+      "is_missing": false
+    },
+    {
+      "value": "GBR",
+      "count": 5315,
+      "percentage": 6.699861,
+      "is_missing": false
+    },
+    {
+      "value": "ESP",
+      "count": 4611,
+      "percentage": 5.812429,
+      "is_missing": false
+    },
+    {
+      "value": "ITA",
+      "count": 3307,
+      "percentage": 4.168663,
+      "is_missing": false
+    },
+    {
+      "value": "BEL",
+      "count": 1894,
+      "percentage": 2.387495,
+      "is_missing": false
+    },
+    {
+      "value": "BRA",
+      "count": 1794,
+      "percentage": 2.26144,
+      "is_missing": false
+    },
+    {
+      "value": "USA",
+      "count": 1618,
+      "percentage": 2.039581,
+      "is_missing": false
+    },
+    {
+      "value": "NLD",
+      "count": 1590,
+      "percentage": 2.004286,
+      "is_missing": false
+    },
+    {
+      "value": "CHE",
+      "count": 1295,
+      "percentage": 1.632422,
+      "is_missing": false
+    },
+    {
+      "value": "IRL",
+      "count": 1209,
+      "percentage": 1.524014,
+      "is_missing": false
+    },
+    {
+      "value": "AUT",
+      "count": 1053,
+      "percentage": 1.327367,
+      "is_missing": false
+    },
+    {
+      "value": "CHN",
+      "count": 865,
+      "percentage": 1.090382,
+      "is_missing": false
+    },
+    {
+      "value": "SWE",
+      "count": 720,
+      "percentage": 0.907601,
+      "is_missing": false
+    },
+    {
+      "value": "ISR",
+      "count": 641,
+      "percentage": 0.808017,
+      "is_missing": false
+    },
+    {
+      "value": "POL",
+      "count": 586,
+      "percentage": 0.738686,
+      "is_missing": false
+    },
+    {
+      "value": "CN",
+      "count": 569,
+      "percentage": 0.717257,
+      "is_missing": false
+    },
+    {
+      "value": "NOR",
+      "count": 484,
+      "percentage": 0.61011,
+      "is_missing": false
+    },
+    {
+      "value": "RUS",
+      "count": 443,
+      "percentage": 0.558427,
+      "is_missing": false
+    },
+    {
+      "value": "DNK",
+      "count": 370,
+      "percentage": 0.466406,
+      "is_missing": false
+    },
+    {
+      "value": "AUS",
+      "count": 339,
+      "percentage": 0.427329,
+      "is_missing": false
+    },
+    {
+      "value": "AGO",
+      "count": 338,
+      "percentage": 0.426068,
+      "is_missing": false
+    },
+    {
+      "value": "ROU",
+      "count": 323,
+      "percentage": 0.40716,
+      "is_missing": false
+    },
+    {
+      "value": "FIN",
+      "count": 296,
+      "percentage": 0.373125,
+      "is_missing": false
+    },
+    {
+      "value": "TUR",
+      "count": 225,
+      "percentage": 0.283625,
+      "is_missing": false
+    },
+    {
+      "value": "LUX",
+      "count": 207,
+      "percentage": 0.260935,
+      "is_missing": false
+    },
+    {
+      "value": "JPN",
+      "count": 188,
+      "percentage": 0.236985,
+      "is_missing": false
+    },
+    {
+      "value": "MAR",
+      "count": 184,
+      "percentage": 0.231943,
+      "is_missing": false
+    },
+    {
+      "value": "HUN",
+      "count": 183,
+      "percentage": 0.230682,
+      "is_missing": false
+    },
+    {
+      "value": "ARG",
+      "count": 157,
+      "percentage": 0.197907,
+      "is_missing": false
+    },
+    {
+      "value": "CZE",
+      "count": 144,
+      "percentage": 0.18152,
+      "is_missing": false
+    },
+    {
+      "value": "KOR",
+      "count": 124,
+      "percentage": 0.156309,
+      "is_missing": false
+    },
+    {
+      "value": "GRC",
+      "count": 118,
+      "percentage": 0.148746,
+      "is_missing": false
+    },
+    {
+      "value": "IND",
+      "count": 115,
+      "percentage": 0.144964,
+      "is_missing": false
+    },
+    {
+      "value": "SRB",
+      "count": 94,
+      "percentage": 0.118492,
+      "is_missing": false
+    },
+    {
+      "value": "DZA",
+      "count": 91,
+      "percentage": 0.114711,
+      "is_missing": false
+    },
+    {
+      "value": "HRV",
+      "count": 89,
+      "percentage": 0.11219,
+      "is_missing": false
+    },
+    {
+      "value": "MEX",
+      "count": 79,
+      "percentage": 0.099584,
+      "is_missing": false
+    },
+    {
+      "value": "IRN",
+      "count": 78,
+      "percentage": 0.098323,
+      "is_missing": false
+    },
+    {
+      "value": "BGR",
+      "count": 70,
+      "percentage": 0.088239,
+      "is_missing": false
+    },
+    {
+      "value": "ZAF",
+      "count": 62,
+      "percentage": 0.078155,
+      "is_missing": false
+    },
+    {
+      "value": "MOZ",
+      "count": 61,
+      "percentage": 0.076894,
+      "is_missing": false
+    },
+    {
+      "value": "NZL",
+      "count": 60,
+      "percentage": 0.075633,
+      "is_missing": false
+    },
+    {
+      "value": "COL",
+      "count": 55,
+      "percentage": 0.069331,
+      "is_missing": false
+    },
+    {
+      "value": "SVK",
+      "count": 53,
+      "percentage": 0.06681,
+      "is_missing": false
+    },
+    {
+      "value": "THA",
+      "count": 53,
+      "percentage": 0.06681,
+      "is_missing": false
+    },
+    {
+      "value": "ISL",
+      "count": 51,
+      "percentage": 0.064288,
+      "is_missing": false
+    },
+    {
+      "value": "EST",
+      "count": 50,
+      "percentage": 0.063028,
+      "is_missing": false
+    },
+    {
+      "value": "CHL",
+      "count": 48,
+      "percentage": 0.060507,
+      "is_missing": false
+    },
+    {
+      "value": "SAU",
+      "count": 47,
+      "percentage": 0.059246,
+      "is_missing": false
+    },
+    {
+      "value": "SVN",
+      "count": 46,
+      "percentage": 0.057986,
+      "is_missing": false
+    },
+    {
+      "value": "UKR",
+      "count": 45,
+      "percentage": 0.056725,
+      "is_missing": false
+    },
+    {
+      "value": "CYP",
+      "count": 43,
+      "percentage": 0.054204,
+      "is_missing": false
+    },
+    {
+      "value": "ARE",
+      "count": 40,
+      "percentage": 0.050422,
+      "is_missing": false
+    },
+    {
+      "value": "TWN",
+      "count": 39,
+      "percentage": 0.049162,
+      "is_missing": false
+    },
+    {
+      "value": "TUN",
+      "count": 38,
+      "percentage": 0.047901,
+      "is_missing": false
+    },
+    {
+      "value": "LTU",
+      "count": 35,
+      "percentage": 0.04412,
+      "is_missing": false
+    },
+    {
+      "value": "SGP",
+      "count": 35,
+      "percentage": 0.04412,
+      "is_missing": false
+    },
+    {
+      "value": "EGY",
+      "count": 31,
+      "percentage": 0.039077,
+      "is_missing": false
+    },
+    {
+      "value": "IDN",
+      "count": 30,
+      "percentage": 0.037817,
+      "is_missing": false
+    },
+    {
+      "value": "PER",
+      "count": 28,
+      "percentage": 0.035296,
+      "is_missing": false
+    },
+    {
+      "value": "LBN",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "HKG",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "ECU",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "URY",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": false
+    },
+    {
+      "value": "PHL",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": false
+    },
+    {
+      "value": "<MISSING>",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": true
+    },
+    {
+      "value": "NGA",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": false
+    },
+    {
+      "value": "VEN",
+      "count": 23,
+      "percentage": 0.028993,
+      "is_missing": false
+    },
+    {
+      "value": "LVA",
+      "count": 22,
+      "percentage": 0.027732,
+      "is_missing": false
+    },
+    {
+      "value": "JOR",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "CPV",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "BLR",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "MYS",
+      "count": 18,
+      "percentage": 0.02269,
+      "is_missing": false
+    },
+    {
+      "value": "CRI",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "MLT",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "MAC",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "AZE",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "IRQ",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "QAT",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "KAZ",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "KWT",
+      "count": 13,
+      "percentage": 0.016387,
+      "is_missing": false
+    },
+    {
+      "value": "BIH",
+      "count": 12,
+      "percentage": 0.015127,
+      "is_missing": false
+    },
+    {
+      "value": "BGD",
+      "count": 12,
+      "percentage": 0.015127,
+      "is_missing": false
+    },
+    {
+      "value": "DOM",
+      "count": 11,
+      "percentage": 0.013866,
+      "is_missing": false
+    },
+    {
+      "value": "GEO",
+      "count": 11,
+      "percentage": 0.013866,
+      "is_missing": false
+    },
+    {
+      "value": "PAK",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "BOL",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "SEN",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "TJK",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "GNB",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "ALB",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "MKD",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "PAN",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "CMR",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "LBY",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "OMN",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "VNM",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "MUS",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "LKA",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "MDV",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "ARM",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "KEN",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "MNE",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "GIB",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "TZA",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "JEY",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "FRO",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "GTM",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "GHA",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "BRB",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "MCO",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "BHR",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "CUB",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "CIV",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "PRY",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "GAB",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "UZB",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "TMP",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "LIE",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "BEN",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "PRI",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "ETH",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "STP",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "KNA",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "AND",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "CAF",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "SYR",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "KHM",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "IMN",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "RWA",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "MYT",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "ZWE",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "GGY",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "SLV",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "GLP",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "ATA",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "LAO",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "ABW",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "HND",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "ZMB",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "VGB",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "BFA",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "MMR",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "UMI",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "NIC",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "JAM",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "SYC",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "MLI",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "NAM",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "GUY",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "UGA",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "PYF",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "DMA",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "AIA",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "TGO",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "ASM",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "LCA",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "MRT",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "SUR",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "KIR",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "NCL",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "SDN",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "ATF",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "SLE",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "COM",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    }
+  ],
+  "MarketSegment": [
+    {
+      "value": "Online TA",
+      "count": 38748,
+      "percentage": 48.844069,
+      "is_missing": false
+    },
+    {
+      "value": "Offline TA/TO",
+      "count": 16747,
+      "percentage": 21.110551,
+      "is_missing": false
+    },
+    {
+      "value": "Groups",
+      "count": 13975,
+      "percentage": 17.616286,
+      "is_missing": false
+    },
+    {
+      "value": "Direct",
+      "count": 6093,
+      "percentage": 7.680575,
+      "is_missing": false
+    },
+    {
+      "value": "Corporate",
+      "count": 2986,
+      "percentage": 3.764024,
+      "is_missing": false
+    },
+    {
+      "value": "Complementary",
+      "count": 542,
+      "percentage": 0.683222,
+      "is_missing": false
+    },
+    {
+      "value": "Aviation",
+      "count": 237,
+      "percentage": 0.298752,
+      "is_missing": false
+    },
+    {
+      "value": "Undefined",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    }
+  ],
+  "DistributionChannel": [
+    {
+      "value": "TA/TO",
+      "count": 68945,
+      "percentage": 86.909114,
+      "is_missing": false
+    },
+    {
+      "value": "Direct",
+      "count": 6780,
+      "percentage": 8.546578,
+      "is_missing": false
+    },
+    {
+      "value": "Corporate",
+      "count": 3408,
+      "percentage": 4.295979,
+      "is_missing": false
+    },
+    {
+      "value": "GDS",
+      "count": 193,
+      "percentage": 0.243288,
+      "is_missing": false
+    },
+    {
+      "value": "Undefined",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    }
+  ],
+  "ReservedRoomType": [
+    {
+      "value": "A",
+      "count": 62595,
+      "percentage": 78.904576,
+      "is_missing": false
+    },
+    {
+      "value": "D",
+      "count": 11768,
+      "percentage": 14.834237,
+      "is_missing": false
+    },
+    {
+      "value": "F",
+      "count": 1791,
+      "percentage": 2.257658,
+      "is_missing": false
+    },
+    {
+      "value": "E",
+      "count": 1553,
+      "percentage": 1.957645,
+      "is_missing": false
+    },
+    {
+      "value": "B",
+      "count": 1115,
+      "percentage": 1.405521,
+      "is_missing": false
+    },
+    {
+      "value": "G",
+      "count": 484,
+      "percentage": 0.61011,
+      "is_missing": false
+    },
+    {
+      "value": "C",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "P",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    }
+  ],
+  "DepositType": [
+    {
+      "value": "No Deposit",
+      "count": 66442,
+      "percentage": 83.753939,
+      "is_missing": false
+    },
+    {
+      "value": "Non Refund",
+      "count": 12868,
+      "percentage": 16.22085,
+      "is_missing": false
+    },
+    {
+      "value": "Refundable",
+      "count": 20,
+      "percentage": 0.025211,
+      "is_missing": false
+    }
+  ],
+  "Agent": [
+    {
+      "value": "9",
+      "count": 31955,
+      "percentage": 40.281104,
+      "is_missing": false
+    },
+    {
+      "value": "<MISSING>",
+      "count": 8131,
+      "percentage": 10.24959,
+      "is_missing": true
+    },
+    {
+      "value": "1",
+      "count": 7137,
+      "percentage": 8.996596,
+      "is_missing": false
+    },
+    {
+      "value": "14",
+      "count": 3640,
+      "percentage": 4.588428,
+      "is_missing": false
+    },
+    {
+      "value": "7",
+      "count": 3539,
+      "percentage": 4.461112,
+      "is_missing": false
+    },
+    {
+      "value": "6",
+      "count": 2683,
+      "percentage": 3.382075,
+      "is_missing": false
+    },
+    {
+      "value": "28",
+      "count": 1666,
+      "percentage": 2.100088,
+      "is_missing": false
+    },
+    {
+      "value": "3",
+      "count": 1308,
+      "percentage": 1.648809,
+      "is_missing": false
+    },
+    {
+      "value": "8",
+      "count": 1236,
+      "percentage": 1.558049,
+      "is_missing": false
+    },
+    {
+      "value": "37",
+      "count": 1230,
+      "percentage": 1.550485,
+      "is_missing": false
+    },
+    {
+      "value": "19",
+      "count": 1061,
+      "percentage": 1.337451,
+      "is_missing": false
+    },
+    {
+      "value": "21",
+      "count": 875,
+      "percentage": 1.102988,
+      "is_missing": false
+    },
+    {
+      "value": "229",
+      "count": 786,
+      "percentage": 0.990798,
+      "is_missing": false
+    },
+    {
+      "value": "83",
+      "count": 696,
+      "percentage": 0.877348,
+      "is_missing": false
+    },
+    {
+      "value": "29",
+      "count": 679,
+      "percentage": 0.855918,
+      "is_missing": false
+    },
+    {
+      "value": "12",
+      "count": 578,
+      "percentage": 0.728602,
+      "is_missing": false
+    },
+    {
+      "value": "85",
+      "count": 554,
+      "percentage": 0.698349,
+      "is_missing": false
+    },
+    {
+      "value": "20",
+      "count": 540,
+      "percentage": 0.680701,
+      "is_missing": false
+    },
+    {
+      "value": "30",
+      "count": 484,
+      "percentage": 0.61011,
+      "is_missing": false
+    },
+    {
+      "value": "27",
+      "count": 450,
+      "percentage": 0.567251,
+      "is_missing": false
+    },
+    {
+      "value": "22",
+      "count": 382,
+      "percentage": 0.481533,
+      "is_missing": false
+    },
+    {
+      "value": "56",
+      "count": 375,
+      "percentage": 0.472709,
+      "is_missing": false
+    },
+    {
+      "value": "86",
+      "count": 338,
+      "percentage": 0.426068,
+      "is_missing": false
+    },
+    {
+      "value": "58",
+      "count": 335,
+      "percentage": 0.422287,
+      "is_missing": false
+    },
+    {
+      "value": "119",
+      "count": 304,
+      "percentage": 0.383209,
+      "is_missing": false
+    },
+    {
+      "value": "26",
+      "count": 295,
+      "percentage": 0.371864,
+      "is_missing": false
+    },
+    {
+      "value": "34",
+      "count": 293,
+      "percentage": 0.369343,
+      "is_missing": false
+    },
+    {
+      "value": "44",
+      "count": 292,
+      "percentage": 0.368083,
+      "is_missing": false
+    },
+    {
+      "value": "11",
+      "count": 290,
+      "percentage": 0.365562,
+      "is_missing": false
+    },
+    {
+      "value": "138",
+      "count": 287,
+      "percentage": 0.36178,
+      "is_missing": false
+    },
+    {
+      "value": "236",
+      "count": 247,
+      "percentage": 0.311358,
+      "is_missing": false
+    },
+    {
+      "value": "10",
+      "count": 247,
+      "percentage": 0.311358,
+      "is_missing": false
+    },
+    {
+      "value": "171",
+      "count": 244,
+      "percentage": 0.307576,
+      "is_missing": false
+    },
+    {
+      "value": "16",
+      "count": 242,
+      "percentage": 0.305055,
+      "is_missing": false
+    },
+    {
+      "value": "17",
+      "count": 241,
+      "percentage": 0.303794,
+      "is_missing": false
+    },
+    {
+      "value": "42",
+      "count": 211,
+      "percentage": 0.265978,
+      "is_missing": false
+    },
+    {
+      "value": "191",
+      "count": 198,
+      "percentage": 0.24959,
+      "is_missing": false
+    },
+    {
+      "value": "134",
+      "count": 195,
+      "percentage": 0.245809,
+      "is_missing": false
+    },
+    {
+      "value": "195",
+      "count": 189,
+      "percentage": 0.238245,
+      "is_missing": false
+    },
+    {
+      "value": "154",
+      "count": 187,
+      "percentage": 0.235724,
+      "is_missing": false
+    },
+    {
+      "value": "31",
+      "count": 162,
+      "percentage": 0.20421,
+      "is_missing": false
+    },
+    {
+      "value": "15",
+      "count": 160,
+      "percentage": 0.201689,
+      "is_missing": false
+    },
+    {
+      "value": "326",
+      "count": 160,
+      "percentage": 0.201689,
+      "is_missing": false
+    },
+    {
+      "value": "168",
+      "count": 144,
+      "percentage": 0.18152,
+      "is_missing": false
+    },
+    {
+      "value": "132",
+      "count": 143,
+      "percentage": 0.18026,
+      "is_missing": false
+    },
+    {
+      "value": "52",
+      "count": 137,
+      "percentage": 0.172696,
+      "is_missing": false
+    },
+    {
+      "value": "152",
+      "count": 132,
+      "percentage": 0.166394,
+      "is_missing": false
+    },
+    {
+      "value": "234",
+      "count": 128,
+      "percentage": 0.161351,
+      "is_missing": false
+    },
+    {
+      "value": "39",
+      "count": 127,
+      "percentage": 0.160091,
+      "is_missing": false
+    },
+    {
+      "value": "98",
+      "count": 124,
+      "percentage": 0.156309,
+      "is_missing": false
+    },
+    {
+      "value": "35",
+      "count": 109,
+      "percentage": 0.137401,
+      "is_missing": false
+    },
+    {
+      "value": "220",
+      "count": 104,
+      "percentage": 0.131098,
+      "is_missing": false
+    },
+    {
+      "value": "5",
+      "count": 102,
+      "percentage": 0.128577,
+      "is_missing": false
+    },
+    {
+      "value": "89",
+      "count": 99,
+      "percentage": 0.124795,
+      "is_missing": false
+    },
+    {
+      "value": "170",
+      "count": 93,
+      "percentage": 0.117232,
+      "is_missing": false
+    },
+    {
+      "value": "159",
+      "count": 88,
+      "percentage": 0.110929,
+      "is_missing": false
+    },
+    {
+      "value": "94",
+      "count": 85,
+      "percentage": 0.107147,
+      "is_missing": false
+    },
+    {
+      "value": "13",
+      "count": 82,
+      "percentage": 0.103366,
+      "is_missing": false
+    },
+    {
+      "value": "87",
+      "count": 77,
+      "percentage": 0.097063,
+      "is_missing": false
+    },
+    {
+      "value": "82",
+      "count": 77,
+      "percentage": 0.097063,
+      "is_missing": false
+    },
+    {
+      "value": "41",
+      "count": 75,
+      "percentage": 0.094542,
+      "is_missing": false
+    },
+    {
+      "value": "118",
+      "count": 69,
+      "percentage": 0.086978,
+      "is_missing": false
+    },
+    {
+      "value": "99",
+      "count": 68,
+      "percentage": 0.085718,
+      "is_missing": false
+    },
+    {
+      "value": "157",
+      "count": 61,
+      "percentage": 0.076894,
+      "is_missing": false
+    },
+    {
+      "value": "2",
+      "count": 60,
+      "percentage": 0.075633,
+      "is_missing": false
+    },
+    {
+      "value": "151",
+      "count": 56,
+      "percentage": 0.070591,
+      "is_missing": false
+    },
+    {
+      "value": "133",
+      "count": 56,
+      "percentage": 0.070591,
+      "is_missing": false
+    },
+    {
+      "value": "390",
+      "count": 56,
+      "percentage": 0.070591,
+      "is_missing": false
+    },
+    {
+      "value": "4",
+      "count": 47,
+      "percentage": 0.059246,
+      "is_missing": false
+    },
+    {
+      "value": "79",
+      "count": 47,
+      "percentage": 0.059246,
+      "is_missing": false
+    },
+    {
+      "value": "286",
+      "count": 45,
+      "percentage": 0.056725,
+      "is_missing": false
+    },
+    {
+      "value": "296",
+      "count": 42,
+      "percentage": 0.052943,
+      "is_missing": false
+    },
+    {
+      "value": "192",
+      "count": 41,
+      "percentage": 0.051683,
+      "is_missing": false
+    },
+    {
+      "value": "38",
+      "count": 38,
+      "percentage": 0.047901,
+      "is_missing": false
+    },
+    {
+      "value": "40",
+      "count": 37,
+      "percentage": 0.046641,
+      "is_missing": false
+    },
+    {
+      "value": "121",
+      "count": 37,
+      "percentage": 0.046641,
+      "is_missing": false
+    },
+    {
+      "value": "162",
+      "count": 37,
+      "percentage": 0.046641,
+      "is_missing": false
+    },
+    {
+      "value": "155",
+      "count": 36,
+      "percentage": 0.04538,
+      "is_missing": false
+    },
+    {
+      "value": "378",
+      "count": 36,
+      "percentage": 0.04538,
+      "is_missing": false
+    },
+    {
+      "value": "104",
+      "count": 35,
+      "percentage": 0.04412,
+      "is_missing": false
+    },
+    {
+      "value": "330",
+      "count": 34,
+      "percentage": 0.042859,
+      "is_missing": false
+    },
+    {
+      "value": "394",
+      "count": 33,
+      "percentage": 0.041598,
+      "is_missing": false
+    },
+    {
+      "value": "77",
+      "count": 33,
+      "percentage": 0.041598,
+      "is_missing": false
+    },
+    {
+      "value": "45",
+      "count": 32,
+      "percentage": 0.040338,
+      "is_missing": false
+    },
+    {
+      "value": "91",
+      "count": 32,
+      "percentage": 0.040338,
+      "is_missing": false
+    },
+    {
+      "value": "33",
+      "count": 31,
+      "percentage": 0.039077,
+      "is_missing": false
+    },
+    {
+      "value": "63",
+      "count": 29,
+      "percentage": 0.036556,
+      "is_missing": false
+    },
+    {
+      "value": "173",
+      "count": 29,
+      "percentage": 0.036556,
+      "is_missing": false
+    },
+    {
+      "value": "78",
+      "count": 29,
+      "percentage": 0.036556,
+      "is_missing": false
+    },
+    {
+      "value": "235",
+      "count": 29,
+      "percentage": 0.036556,
+      "is_missing": false
+    },
+    {
+      "value": "36",
+      "count": 29,
+      "percentage": 0.036556,
+      "is_missing": false
+    },
+    {
+      "value": "315",
+      "count": 28,
+      "percentage": 0.035296,
+      "is_missing": false
+    },
+    {
+      "value": "205",
+      "count": 27,
+      "percentage": 0.034035,
+      "is_missing": false
+    },
+    {
+      "value": "47",
+      "count": 26,
+      "percentage": 0.032774,
+      "is_missing": false
+    },
+    {
+      "value": "153",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "323",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "254",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "23",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "147",
+      "count": 23,
+      "percentage": 0.028993,
+      "is_missing": false
+    },
+    {
+      "value": "187",
+      "count": 23,
+      "percentage": 0.028993,
+      "is_missing": false
+    },
+    {
+      "value": "64",
+      "count": 22,
+      "percentage": 0.027732,
+      "is_missing": false
+    },
+    {
+      "value": "174",
+      "count": 22,
+      "percentage": 0.027732,
+      "is_missing": false
+    },
+    {
+      "value": "24",
+      "count": 22,
+      "percentage": 0.027732,
+      "is_missing": false
+    },
+    {
+      "value": "262",
+      "count": 22,
+      "percentage": 0.027732,
+      "is_missing": false
+    },
+    {
+      "value": "359",
+      "count": 21,
+      "percentage": 0.026472,
+      "is_missing": false
+    },
+    {
+      "value": "103",
+      "count": 21,
+      "percentage": 0.026472,
+      "is_missing": false
+    },
+    {
+      "value": "177",
+      "count": 20,
+      "percentage": 0.025211,
+      "is_missing": false
+    },
+    {
+      "value": "50",
+      "count": 20,
+      "percentage": 0.025211,
+      "is_missing": false
+    },
+    {
+      "value": "74",
+      "count": 20,
+      "percentage": 0.025211,
+      "is_missing": false
+    },
+    {
+      "value": "423",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "290",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "364",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "60",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "53",
+      "count": 18,
+      "percentage": 0.02269,
+      "is_missing": false
+    },
+    {
+      "value": "281",
+      "count": 18,
+      "percentage": 0.02269,
+      "is_missing": false
+    },
+    {
+      "value": "240",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "474",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "111",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "425",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "459",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "55",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "112",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "455",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "95",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "32",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "215",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "129",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "288",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "354",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "193",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "219",
+      "count": 13,
+      "percentage": 0.016387,
+      "is_missing": false
+    },
+    {
+      "value": "467",
+      "count": 12,
+      "percentage": 0.015127,
+      "is_missing": false
+    },
+    {
+      "value": "484",
+      "count": 11,
+      "percentage": 0.013866,
+      "is_missing": false
+    },
+    {
+      "value": "196",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "509",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "128",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "475",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "344",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "57",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "287",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "276",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "210",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "182",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "495",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "92",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "141",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "441",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "325",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "81",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "150",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "214",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "66",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "310",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "371",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "403",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "295",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "341",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "148",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "375",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "335",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "252",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "355",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "72",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "75",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "370",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "25",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "61",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "69",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "449",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "436",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "461",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "179",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "107",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "211",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "71",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "167",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "106",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "404",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "283",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "391",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "269",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "232",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "327",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "180",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "122",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "227",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "54",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "93",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "270",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "90",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "331",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "70",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "213",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "144",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "158",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "117",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "306",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "256",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "242",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "294",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "267",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "250",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "247",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "278",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "280",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "289",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "285",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "216",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "346",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "303",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "265",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "427",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "416",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "397",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "299",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "197",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "73",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "444",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "408",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "388",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "453",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "480",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "464",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "476",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    }
+  ],
+  "Company": [
+    {
+      "value": "<MISSING>",
+      "count": 75641,
+      "percentage": 95.349805,
+      "is_missing": true
+    },
+    {
+      "value": "40",
+      "count": 924,
+      "percentage": 1.164755,
+      "is_missing": false
+    },
+    {
+      "value": "67",
+      "count": 267,
+      "percentage": 0.336569,
+      "is_missing": false
+    },
+    {
+      "value": "45",
+      "count": 250,
+      "percentage": 0.315139,
+      "is_missing": false
+    },
+    {
+      "value": "153",
+      "count": 215,
+      "percentage": 0.27102,
+      "is_missing": false
+    },
+    {
+      "value": "219",
+      "count": 141,
+      "percentage": 0.177739,
+      "is_missing": false
+    },
+    {
+      "value": "233",
+      "count": 114,
+      "percentage": 0.143704,
+      "is_missing": false
+    },
+    {
+      "value": "174",
+      "count": 113,
+      "percentage": 0.142443,
+      "is_missing": false
+    },
+    {
+      "value": "51",
+      "count": 86,
+      "percentage": 0.108408,
+      "is_missing": false
+    },
+    {
+      "value": "242",
+      "count": 61,
+      "percentage": 0.076894,
+      "is_missing": false
+    },
+    {
+      "value": "348",
+      "count": 59,
+      "percentage": 0.074373,
+      "is_missing": false
+    },
+    {
+      "value": "38",
+      "count": 51,
+      "percentage": 0.064288,
+      "is_missing": false
+    },
+    {
+      "value": "91",
+      "count": 48,
+      "percentage": 0.060507,
+      "is_missing": false
+    },
+    {
+      "value": "280",
+      "count": 48,
+      "percentage": 0.060507,
+      "is_missing": false
+    },
+    {
+      "value": "197",
+      "count": 47,
+      "percentage": 0.059246,
+      "is_missing": false
+    },
+    {
+      "value": "68",
+      "count": 46,
+      "percentage": 0.057986,
+      "is_missing": false
+    },
+    {
+      "value": "218",
+      "count": 42,
+      "percentage": 0.052943,
+      "is_missing": false
+    },
+    {
+      "value": "169",
+      "count": 39,
+      "percentage": 0.049162,
+      "is_missing": false
+    },
+    {
+      "value": "202",
+      "count": 38,
+      "percentage": 0.047901,
+      "is_missing": false
+    },
+    {
+      "value": "148",
+      "count": 33,
+      "percentage": 0.041598,
+      "is_missing": false
+    },
+    {
+      "value": "238",
+      "count": 33,
+      "percentage": 0.041598,
+      "is_missing": false
+    },
+    {
+      "value": "62",
+      "count": 32,
+      "percentage": 0.040338,
+      "is_missing": false
+    },
+    {
+      "value": "385",
+      "count": 30,
+      "percentage": 0.037817,
+      "is_missing": false
+    },
+    {
+      "value": "365",
+      "count": 28,
+      "percentage": 0.035296,
+      "is_missing": false
+    },
+    {
+      "value": "221",
+      "count": 27,
+      "percentage": 0.034035,
+      "is_missing": false
+    },
+    {
+      "value": "72",
+      "count": 27,
+      "percentage": 0.034035,
+      "is_missing": false
+    },
+    {
+      "value": "46",
+      "count": 26,
+      "percentage": 0.032774,
+      "is_missing": false
+    },
+    {
+      "value": "418",
+      "count": 25,
+      "percentage": 0.031514,
+      "is_missing": false
+    },
+    {
+      "value": "179",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": false
+    },
+    {
+      "value": "227",
+      "count": 24,
+      "percentage": 0.030253,
+      "is_missing": false
+    },
+    {
+      "value": "424",
+      "count": 23,
+      "percentage": 0.028993,
+      "is_missing": false
+    },
+    {
+      "value": "216",
+      "count": 21,
+      "percentage": 0.026472,
+      "is_missing": false
+    },
+    {
+      "value": "407",
+      "count": 21,
+      "percentage": 0.026472,
+      "is_missing": false
+    },
+    {
+      "value": "366",
+      "count": 21,
+      "percentage": 0.026472,
+      "is_missing": false
+    },
+    {
+      "value": "78",
+      "count": 20,
+      "percentage": 0.025211,
+      "is_missing": false
+    },
+    {
+      "value": "209",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "150",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "405",
+      "count": 19,
+      "percentage": 0.023951,
+      "is_missing": false
+    },
+    {
+      "value": "122",
+      "count": 18,
+      "percentage": 0.02269,
+      "is_missing": false
+    },
+    {
+      "value": "43",
+      "count": 18,
+      "percentage": 0.02269,
+      "is_missing": false
+    },
+    {
+      "value": "143",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "396",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "163",
+      "count": 17,
+      "percentage": 0.021429,
+      "is_missing": false
+    },
+    {
+      "value": "183",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "47",
+      "count": 16,
+      "percentage": 0.020169,
+      "is_missing": false
+    },
+    {
+      "value": "9",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "193",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "127",
+      "count": 15,
+      "percentage": 0.018908,
+      "is_missing": false
+    },
+    {
+      "value": "408",
+      "count": 14,
+      "percentage": 0.017648,
+      "is_missing": false
+    },
+    {
+      "value": "485",
+      "count": 13,
+      "percentage": 0.016387,
+      "is_missing": false
+    },
+    {
+      "value": "186",
+      "count": 12,
+      "percentage": 0.015127,
+      "is_missing": false
+    },
+    {
+      "value": "203",
+      "count": 12,
+      "percentage": 0.015127,
+      "is_missing": false
+    },
+    {
+      "value": "435",
+      "count": 11,
+      "percentage": 0.013866,
+      "is_missing": false
+    },
+    {
+      "value": "37",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "333",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "450",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "81",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "409",
+      "count": 10,
+      "percentage": 0.012606,
+      "is_missing": false
+    },
+    {
+      "value": "107",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "144",
+      "count": 9,
+      "percentage": 0.011345,
+      "is_missing": false
+    },
+    {
+      "value": "279",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "120",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "465",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "105",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "215",
+      "count": 8,
+      "percentage": 0.010084,
+      "is_missing": false
+    },
+    {
+      "value": "14",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "263",
+      "count": 7,
+      "percentage": 0.008824,
+      "is_missing": false
+    },
+    {
+      "value": "207",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "451",
+      "count": 6,
+      "percentage": 0.007563,
+      "is_missing": false
+    },
+    {
+      "value": "428",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "329",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "49",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "439",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "357",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "293",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "149",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "383",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "341",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "48",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "254",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "180",
+      "count": 5,
+      "percentage": 0.006303,
+      "is_missing": false
+    },
+    {
+      "value": "452",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "185",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "410",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "426",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "377",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "220",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "115",
+      "count": 4,
+      "percentage": 0.005042,
+      "is_missing": false
+    },
+    {
+      "value": "444",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "443",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "245",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "251",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "230",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "139",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "73",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "260",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "93",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "334",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "331",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "275",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "350",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "358",
+      "count": 3,
+      "percentage": 0.003782,
+      "is_missing": false
+    },
+    {
+      "value": "360",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "369",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "372",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "332",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "316",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "321",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "116",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "466",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "85",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "277",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "304",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "264",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "71",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "158",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "292",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "307",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "217",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "222",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "259",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "411",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "433",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "492",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "483",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "429",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "243",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "367",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "311",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "106",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "246",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "135",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "271",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "210",
+      "count": 2,
+      "percentage": 0.002521,
+      "is_missing": false
+    },
+    {
+      "value": "108",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "100",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "65",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "84",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "110",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "96",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "76",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "8",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "253",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "309",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "288",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "313",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "308",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "273",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "284",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "282",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "301",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "305",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "278",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "272",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "257",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "255",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "258",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "18",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "234",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "35",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "160",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "140",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "130",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "213",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "11",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "101",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "137",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "142",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "237",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "224",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "356",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "351",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "349",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "317",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "314",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "312",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "412",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "395",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "132",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "393",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "290",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "368",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "379",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "384",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "319",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "330",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "320",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "352",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "361",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "362",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "420",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "417",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "479",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "460",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "445",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "446",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "400",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "489",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "477",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "478",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "448",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "229",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "486",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "481",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "494",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "491",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "421",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    },
+    {
+      "value": "497",
+      "count": 1,
+      "percentage": 0.001261,
+      "is_missing": false
+    }
+  ],
+  "CustomerType": [
+    {
+      "value": "Transient",
+      "count": 59404,
+      "percentage": 74.882138,
+      "is_missing": false
+    },
+    {
+      "value": "Transient-Party",
+      "count": 17333,
+      "percentage": 21.849237,
+      "is_missing": false
+    },
+    {
+      "value": "Contract",
+      "count": 2300,
+      "percentage": 2.899281,
+      "is_missing": false
+    },
+    {
+      "value": "Group",
+      "count": 293,
+      "percentage": 0.369343,
+      "is_missing": false
+    }
+  ]
+}
