@@ -1,17 +1,13 @@
-
 from pathlib import Path
 import pandas as pd
-from schema import SOURCE_COLUMNS
+from src.data.schema import SOURCE_COLUMNS
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-
 DATA_PATH = PROJECT_ROOT / "data" / "raw" / "H2.csv"
 
 
 def load_data() -> pd.DataFrame:
-   
-
     if not DATA_PATH.exists():
         raise FileNotFoundError(
             f"Dataset not found at: {DATA_PATH}\n"
